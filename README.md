@@ -3,7 +3,7 @@
 此仓库存放了 Win12OL 的主题文件
 
 > [!NOTE]
-> [原主题仓库](https://codeberg.org/win12-online/win12-theme-legacy) 已弃用，此仓库为整理并压缩图片后的新版仓库
+> [原主题仓库](https://github.com/tjy-gitnub/win12-theme) 已弃用，此仓库为整理并压缩图片后的新版仓库
 
 ## 贡献主题
 
